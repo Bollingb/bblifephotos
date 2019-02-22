@@ -1,5 +1,5 @@
 ---
-title: Built with ❤️ by Chris Manson
+title: Built with ❤️ by Brandon Bolling
 image: /images/built-by.jpg
 imageMeta:
   attribution:
