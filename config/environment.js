@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'ember-ghost-casper-blog',
+    modulePrefix: 'Life Photography',
     environment,
     rootURL: '/',
     locationType: 'auto',
@@ -24,17 +24,17 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Ember Ghost',
-      description: 'Static Blog System - Built with Ember',
-      coverImage: '/images/blog-cover.jpg',
+      title: 'Brandon Bolling Photos',
+      description: 'Static Blog System',
+      coverImage: '/images/advanced.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Built by Brandon Bolling',
         route: 'page',
-        id: 'chris-manson'
+        id: 'Brandon Bolling'
       }]
     }
   };
