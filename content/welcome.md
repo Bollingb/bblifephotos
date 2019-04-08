@@ -11,9 +11,10 @@ tags:
   - getting-started
 ---
 
-Hey! Welcome to Ember Ghost, it's great to have you :)
+Hey! Welcome to my site where I just post pictures of my life!
 
-We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
+I will be not be putting the pictures in a specific order, however they
+will all have descriptions with them. 
 
 
 ### There are a few things that you should know up-front:
