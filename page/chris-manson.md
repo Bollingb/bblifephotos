@@ -1,5 +1,5 @@
 ---
-title: Built by Brandon Bolling
+title: About me : Brandon Bolling
 image: /images/built-by.jpg
 imageMeta:
   attribution:
@@ -10,6 +10,4 @@ date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
 ---
 
-[Brandon Bolling](https://Intagram/bbolling82) is a college student at [Allegheny College](https://emberjs.com/team). Ember-Ghost was an experimental project that came out of the work on converting the [Ember Guides](https://guides.emberjs.com) to be a static Ember application. Ember-Ghost has since inspired the creation of [Guidemaker](https://github.com/empress/guidemaker) and is a driving force for the evolution of the Ember static site ecosystem.
-
-Ember Ghost is entirely open source so if you want to see how it works or if you would like to contribute please [check out the git repository](https://github.com/empress/ember-ghost).
+[Brandon Bolling](https://Intagram/bbolling82) is a college student at [Allegheny College](https://emberjs.com/team). I am looking to double major in Integrative Informatics and Environmental Science. This site is a collection of all my life photos, starting from the beginning. I will leave a feedback form in case you have any questions or suggestions, thanks!
