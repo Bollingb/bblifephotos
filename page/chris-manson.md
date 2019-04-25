@@ -1,5 +1,5 @@
 ---
-title: About me : Brandon Bolling
+title: About me: Brandon Bolling
 image: /images/built-by.jpg
 imageMeta:
   attribution:
